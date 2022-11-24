@@ -1,0 +1,10 @@
+li{
+   color: chocolate;
+   height: 20px;
+   margin: 2px;
+}
+li:hover{
+    border: solid 1px green;
+    height: 20px;
+}
+

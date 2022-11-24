@@ -1,0 +1,8 @@
+.outFocus{
+    width: 100%;
+    height: 110vh;
+    opacity: 0.5;
+    position: absolute;
+    z-index: 2;
+    background-color: cadetblue;
+}

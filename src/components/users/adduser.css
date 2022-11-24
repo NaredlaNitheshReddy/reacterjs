@@ -1,0 +1,16 @@
+form{
+     display: inline-block;
+}
+
+div{
+    padding: 4px;
+    margin-top: 8px;
+}
+
+label{
+    padding-right: 8px;
+}
+input{
+    line-height: 20px;
+    padding: 2px;
+}

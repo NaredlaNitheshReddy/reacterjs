@@ -1,0 +1,12 @@
+button{
+    background-color: brown;
+    border: none;
+    line-height: 20px;
+    border-radius: 4px;
+    min-width: 100px;
+    float: right;
+    font-weight: 400;
+    color: #fff;
+    height: 30px;
+    cursor: pointer;
+}
