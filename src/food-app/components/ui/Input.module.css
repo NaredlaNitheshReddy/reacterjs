@@ -1,0 +1,12 @@
+.quantity-lable{
+    display: inline-block;
+}
+
+
+.quantity-input{
+    width: 20px;
+}
+.quantity-wrapper{
+position: relative;
+display: flex;
+}

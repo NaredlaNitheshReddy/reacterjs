@@ -1,0 +1,16 @@
+.button-wrapper{
+    display: inline-block;
+    float: right;
+    margin: auto;
+    background-color: aliceblue;
+    color: black;
+    padding: 4px 12px;
+    border-radius: 4px ;
+    position: relative;
+    top:30%;
+}
+
+.button-text,.count-badge{
+    margin: 0 4px;
+
+}

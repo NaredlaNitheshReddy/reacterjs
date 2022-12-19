@@ -1,0 +1,53 @@
+.backdrop{
+width: 100vw;
+height: 100vh;
+z-index:10;
+position: fixed;
+background: rgba(0, 0, 0, 0.6);
+}
+
+.overlay{
+width: 20vw;
+z-index:12;
+position: fixed;
+background-color: beige;
+top: 30%;
+left:40%;
+border-radius: 4px;
+}
+
+.cart-model-header{
+    height: 20PX;
+    padding: 4px 8px;
+    line-height: 20px;
+    font-weight: 500;
+}
+
+.cart-model-body{
+    margin: 4px;
+    height:auto;
+}
+
+.cart-model-body li,.cart-model-body li:hover{
+    list-style: none;
+    border:none
+}
+.cart-model-footer{
+    margin: 8px 4px;
+}
+
+.cart-model-button{
+float: right;
+ margin: 8px 4px;
+ border-radius: 4px;
+ padding: 4px 16px;
+}
+
+.cart-model-button-primary {
+    padding: 4px 16px;
+float: right;
+ margin: 8px 4px;
+ border-radius: 4px;
+ background-color: blue;
+ color: white;
+}

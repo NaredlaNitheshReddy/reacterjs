@@ -1,0 +1,15 @@
+.quoteWrapper{
+
+    display: inline-block;
+    width: auto;
+    top:20%;
+    margin: 0 auto;
+    background-color: azure;
+    font-weight: 400;
+    color: chocolate;
+    padding: 20px 40px;
+    border-radius: 24px;
+    border: 2px solid black;
+    left: 48%;
+    position: relative;
+}

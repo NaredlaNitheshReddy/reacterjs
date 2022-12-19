@@ -1,0 +1,7 @@
+.add-btn{    
+    padding: 8px 32px;
+    border-radius: 8px;
+    float: right;
+    cursor: pointer;
+    width:100px
+}

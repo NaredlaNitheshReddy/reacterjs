@@ -1,0 +1,37 @@
+.app-header{    
+    background-color: brown;
+    width: auto;
+    height: 100px;
+    color: #ffffff;
+    padding: 10px;    
+}
+
+h1{
+    width: auto;
+    display: inline-block;
+}
+
+/* button{
+    background-color: #ffffff;
+    border: none;
+    line-height: 20px;
+    border-radius: 4px;
+    min-width: 100px;
+    float: right;
+    font-weight: 500;
+    color: blueviolet;
+    height: 30px;
+    cursor: pointer;
+    margin-top: 32px;
+    } */
+    .posterImage{
+        width: 100%;
+        height: 400px;
+    }
+
+    .quote{
+        display: block;
+        position: absolute;
+        top:48%;
+        margin: auto;
+    }

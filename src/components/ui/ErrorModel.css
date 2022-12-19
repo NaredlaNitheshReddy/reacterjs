@@ -1,6 +1,6 @@
 .outFocus{
     width: 100%;
-    height: 110vh;
+    height: 100vh;
     opacity: 0.5;
     position: absolute;
     z-index: 2;
